@@ -171,6 +171,11 @@ Makinelerin arıza sürelerini (Downtime) sıfıra indirmek için yapılan proak
 Tehlikeli çalışma şartlarında uygulanması gereken temel, esnetilemez can güvenliği normlarıdır.
 *   **[Risk Yönetimi ve Kaza Önleme](9-is-guvenligi-ve-risk/ISG_Risk_Yonetimi_ve_Kaza_Onleme.md):** Makinelerin LOTO (Lock-Out, Tag-Out) izolasyon şemaları ve makine koruma (interlock) valfleri.
 
+### 🏗️ 10. Endüstriyel Tesis İnşası ve Zemin
+Makinelerin çalışacağı fiziksel ortamın ve ağır stabilite gerektiren bina iskeletinin yapısal kurulumu.
+*   **[Çelik Konstrüksiyon ve Vinç Yolları](10-tesis-insasi-ve-endustriyel-yapi/Celik_Konstruksiyon_ve_Vinc_Yollari.md):** Tavan vinçlerinin kolonlara yüklediği yatay dinamik sarsıntılara karşı makas ve kaynak dayanımı. 
+*   **[Zemin Betonu ve Epoksi Kaplamalar](10-tesis-insasi-ve-endustriyel-yapi/Zemin_Betonu_ve_Epoksi_Kaplamalar.md):** CNC titreşimlerini emen C30 sınıfı kuvars zeminler ve kimyasal sızıntı kalkanı poliüretan yüzeyler.
+
 ---
 
 ## 🛠️ Repoya Özgü Geliştirici Araçları (Tools)

@@ -1,0 +1,36 @@
+name: Otonom İSG (İş Güvenliği) Denetleyicisi
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-isg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Kod Deposu Klonlanıyor (Checkout repo)
+        uses: actions/checkout@v3
+
+      - name: Nim Derleyici Ortamı Kuruluyor (Setup Nim)
+        uses: jiro4989/setup-nim-action@v1
+        with:
+          nim-version: 'latest'
+
+      - name: Yağ ve Silikon İSG Denetimi Başlatılıyor (Run ISG Validator)
+        run: |
+          cd tools
+          nim c -r isg_validator.nim
+          
+          # Eğer Nim betiği "FATAL ERROR" döndürdüyse süreci durdur (Fail the build)
+          # Nim betiğimiz hata tespit ettiğinde bir şekilde çıkış kodu (exit code) olarak 1 üretmeli
+          # Güvenlik amacıyla eğer output içinde 'FATAL ERROR' geçerse CI/CD patlatılır.
+          output=$(nim c -r isg_validator.nim)
+          if echo "$output" | grep -q "FATAL ERROR"; then
+            echo "::error::İş Güvenliği (İSG) ihlali tespit edildi! Dokümanlarda hayati eksik var."
+            exit 1
+          else
+            echo "Sistem temiz. Üretim bandına onay verildi."
+          fi

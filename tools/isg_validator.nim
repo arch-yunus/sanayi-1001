@@ -30,10 +30,12 @@ proc validateISGProtocol() =
     setForegroundColor(fgGreen)
     echo "[✅ ONAY] Bütün sistem İSG (İş Sağlığı ve Güvenliği) standartlarına uygundur. Üretime geçilebilir."
     resetAttributes()
+    quit(0)
   else:
     setForegroundColor(fgRed)
     echo "[❌ FATAL ERROR] ", unsafeDocs, " adet dokümanda güvenlik protokolü eksik! Makine şalteri açılamaz."
     resetAttributes()
+    quit(1)
 
 when isMainModule:
   validateISGProtocol()
