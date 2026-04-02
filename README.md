@@ -18,8 +18,10 @@ Sanayide kaç tane tezgah vardır? Hangi makine hangi metali nasıl işler?
 *   📊 **[CNC Dik İşleme ve Torna 101](1-makine-parkuru-ve-üretim/CNC_Dik_İsleme_Merkezi_101.md)** - Bilgisayarlı hassas üretimin beyni.
 *   🌀 **[Tel Erozyon ve EDM](1-makine-parkuru-ve-üretim/Tel_Erozyon_ve_Mikronluk_Kalıp_Uretimi.md)** - Elektrikle metal yakan cerrahi hassasiyet.
 *   ✨ **[Taşlama ve Yüzey Bitirme](1-makine-parkuru-ve-üretim/Taslama_Tezgahlari_ve_Yuzey_Bitirme_Teknolojileri.md)** - Mikronların ve ayna yüzeyin dünyası.
-*   🏗️ **[Lazer & Abkant Sac İşleme](1-makine-parkuru-ve-üretim/Lazer_Kesim_ve_Abkant_Pres_Sac_Isleme.md)** - Metal origami ve kalıpsız şekillendirme.
+*   📝 **[Lazer & Abkant Sac İşleme](1-makine-parkuru-ve-üretim/Lazer_Kesim_ve_Abkant_Pres_Sac_Isleme.md)** - Metal origami ve kalıpsız şekillendirme.
 *   🗳️ **[Plastik Enjeksiyon Mekaniği](1-makine-parkuru-ve-üretim/Plastik_Enjeksiyon_ve_Seri_Uretim_Mekanigi.md)** - Seri üretimin plastik kalbi.
+*   🧰 **[El Aletleri ve Atölye Ekipmanları](1-makine-parkuru-ve-üretim/El_Aletleri_ve_Atolye_Ekipman_Katalogu.md)** - Tork anahtarından çektirmelere her şey.
+*   🏢 **[Nadir ve Özel Tezgahlar](1-makine-parkuru-ve-üretim/Nadir_Tezgahlar_ve_Ozel_Operasyonlar_Katalogu.md)** - Honlama, Borverk, Broşlama ve fazlası.
 
 ### 🔩 2. Mekanik, Motor ve Güç Aktarımı
 Hareket nerede başlar? Tork tekerleğe nasıl ulaşır?
@@ -39,10 +41,12 @@ Metalin karakterini ne belirler? İki çelik nasıl birleşir?
 *   👨‍🏭 **[Kaynak Teknolojileri](4-malzeme-ve-metalurji/Kaynak_Teknolojileri_ve_Isil_Islem.md)** - Moleküler düzeyde metal birleştirme.
 *   🌡️ **[Isıl İşlem ve Sertleştirme](4-malzeme-ve-metalurji/Isil_Islem_Teknikleri_ve_Metal_Sertlestirme.md)** - Ateş ve suyun çeliği terbiye etmesi.
 *   🔥 **[Döküm ve Modelcilik](4-malzeme-ve-metalurji/Dokum_Teknolojileri_ve_Modelcilik_Hatalari.md)** - Erimiş ateşi forma dökme süreci.
+*   🧬 **[Çelik Kodları ve Malzeme Seçimi](4-malzeme-ve-metalurji/Celik_Kodlari_ve_Malzeme_Secim_Rehberi.md)** - 4140, 7131 ve metalolojinin kodları.
 
 ### 👨‍🔧 5. Sanayi Kültürü, İnsan ve Jargon
 Usta kimdir? Hiyerarşi nasıl işler? "Yağlı ellerin" görünmez yasaları.
 *   🎖️ **[Usta Branşları Matrisi](5-sanayi-kulturu-ve-jargon/Usta_Turleri_ve_Gorev_Tanimlari.md)** - Sanayide kaç çeşit usta vardır? Kim, neyi bilir?
+*   🌳 **[Niş Usta Branşları Haritası](5-sanayi-kulturu-ve-jargon/Nis_Usta_Branslari_ve_Uzmanlik_Haritasi.md)** - Krankçı, kapakçı, turboşarjcı ve dikey uzmanlar.
 *   🤝 **[Usta-Çırak Kültürü](5-sanayi-kulturu-ve-jargon/Sanayi_Hiyerarsisi_ve_Usta_Cirak_Kulturu.md)** - Bilginin nesilden nesile genetik aktarımı.
 *   📖 **[A'dan Z'ye Sanayi Sözlüğü](5-sanayi-kulturu-ve-jargon/Sanayi_Terimleri_Sozlugu.md)** - Jargonun teknik karşılıkları.
 
