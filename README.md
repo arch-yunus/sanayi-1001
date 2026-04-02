@@ -182,7 +182,9 @@ Makinelerin çalışacağı fiziksel ortamın ve ağır stabilite gerektiren bin
 
 Sanayi 1001, salt bir metin havuzu değil, aynı zamanda verilerini otonom denetleyen yaşayan bir yazılım sistemidir:
 
-*   **`tools/isg_validator.nim` (İSG Denetçisi):** Nadir ve yüksek performanslı **Nim** dili ile yazılmış özel bir repozitöry denetim betiğidir (script). Repo içindeki tüm Markdown dosyalarını milisaniyeler bazında tarar. Eğer herhangi bir teknik belgede İSG (İş Güvenliği) uyarı kelimeleri geçmiyorsa sistemi "FATAL ERROR" ile reddederek açık kaynağın "Yağ ve Silikon" felsefesini otonom olarak korur.
+*   **`sanayi.py` (Mühendis Terminal C.L.I):** Siyah ekranından ayrılmak istemeyen hacker ulu önderleri için kodlanmış arama motorudur. Terminalinize `python sanayi.py arama "Lazer"` yazdığınızda tüm bilgi bankasını saniyeler içinde tarayıp ilgili makaleleri önünüze düşürür.
+*   **`tools/sanayi_db_builder.py` (JSON API Derleyici):** Bu Python makinesi, projedeki tüm teknik makaleleri otomatik okuyup `api/sanayi_1001_db.json` isimli devasa bir veritabanına dönüştürür. Başka bir şirketseniz veya kendi LLM (Yapay Zeka) modelinizi eğitiyorsanız, Sanayi 1001 kütüphanesini makinelerin okuyabileceği formatta kendi sisteminize çekebilirsiniz.
+*   **`tools/isg_validator.nim` (İSG Denetçisi):** Nadir ve yüksek performanslı **Nim** dili ile yazılmış özel bir repozitöry denetim betiğidir (script). Repo içindeki tüm Markdown dosyalarını milisaniyeler bazında tarar. Eğer herhangi bir teknik belgede İSG (İş Güvenliği) uyarı kelimeleri geçmiyorsa sistemi "FATAL ERROR" ile reddederek açık kaynağın "Yağ ve Silikon" felsefesini otonom olarak korur (Github Actions ile entegredir).
 *   **Küçük Sürprizler (Easter Eggs):** Reponun gizli klasörlerinde *Turing-Complete* ezoterik yazılım dillerinde (ör: Chef) yazılmış, çalışan ancak ilk bakışta mutfak tarifi gibi duran kod satırları mevcuttur. Kodun sırrını çözen "Gerçek Ustalar", Sanayi 1001'in kalbine ulaşacaktır.
 
 ---
