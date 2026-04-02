@@ -1,71 +1,71 @@
-# 🛠️ Sanayi 1001: Yağlı Ellerden Otonom Sistemlere
+# 🛠️ Sanayi 1001: Dev Endüstriyel Bilgi Bombardımanı
 
-![Sanayi 1001 Banner](https://img.shields.io/badge/Versiyon-1.0.0-blue.svg) ![Açık Kaynak](https://img.shields.io/badge/Lisans-MIT-green.svg) ![Katkıda Bulun](https://img.shields.io/badge/Katkılara-Açık-orange.svg)
+![Sanayi 1001 Banner](https://img.shields.io/badge/Statu-Ansiklopedi-red.svg) ![Bilgi Düzeyi-Uzman-blue.svg](https://img.shields.io/badge/Bilgi_Düzeyi-Uzman-blue.svg) ![Kapsam-OSB_ve_Atolye-green.svg](https://img.shields.io/badge/Kapsam-OSB_ve_Atolye-green.svg)
 
-> *"Mühendislik teorisi atölye pratiğiyle, bilişim sistemleri dişlilerin sesiyle buluşuyor."*
+> *"Geleceği üretmek için geçmişin tecrübesini, bugünün teknolojisiyle bizzat atölyede yoğuruyoruz."*
 
-**Sanayi 1001**, geleneksel sanayi sitelerindeki usta-çırak kültüründen, devasa Organize Sanayi Bölgelerindeki (OSB) karmaşık üretim bantlarına ve yapay zeka destekli mekatronik sistemlere kadar uzanan açık kaynaklı bir endüstriyel bilgi bankasıdır. 
-
----
-
-## 🎯 Vizyonumuz (Yağ ve Silikon Felsefesi)
-
-Ekranda kusursuz çalışan bir kod veya 3D tasarım, atölyede ısı, sürtünme ve titreşimle karşılaştığında kurallar değişir. Biz bu kuralları **%40 Fiziksel Gerçeklik**, **%40 Bilim ve Teknoloji** ve **%20 Kültür** dengesiyle belgeliyoruz. Sahadaki pratik çözümleri dijital bir arşive dönüştürerek "Meta-Mühendislik" vizyonunu sahaya indiriyoruz.
+**Sanayi 1001**, endüstriyel dünyayı temelinden en uç teknolojilerine kadar çözümleyen otonom bir **Açık Kaynaklı Sanayi Ansiklopedisi**'dir. Burası bir bilgi bankasından ötesidir; burası sanayiyi öğrenmek, makineleri konuşturmak ve ustalığın kodunu çözmek isteyenler için bir meta-mühendislik kampüsüdür.
 
 ---
 
-## 🏭 OSB Anatomisi ve Makine Parkuru
+## 📚 Sanayiyi Çözümlemek: Ansiklopedik Müfredat
 
-### ⚙️ Talaşlı ve Hassas İmalat
-*   **[CNC Dik İşleme ve Torna](1-makine-parkuru-ve-üretim/CNC_Dik_İsleme_Merkezi_101.md):** G-Code ile metal bloğu heykeltıraş gibi işleyen, 3 boyutlu parçalar üreten sistemler.
-*   **[Manuel Torna ve Freze](1-makine-parkuru-ve-üretim/Torna_Tezgahi_ve_Universal_Isleme_101.md):** Usta hissiyatıyla prototip çıkaran klasik tezgahlar. [Freze ve Divizör Mekaniği](1-makine-parkuru-ve-üretim/Freze_Tezgahi_ve_Divizor_Mekanigi.md) için buraya bakın.
-*   **[Tel Erozyon (Wire EDM)](1-makine-parkuru-ve-üretim/Tel_Erozyon_ve_Mikronluk_Kalıp_Uretimi.md):** Elektrik akımlı ince bir tel ile metali yakan mikronluk hassasiyet.
-*   **[Taşlama Tezgahları](1-makine-parkuru-ve-üretim/Taslama_Tezgahlari_ve_Yuzey_Bitirme_Teknolojileri.md):** Yüzey pürüzsüzleştiren ve tam ölçüye getiren kritik final makineleri.
+Sanayi karmaşık bir organizmadır. Biz bu organizmayı 7 ana sistem (kategori) altında, atomaltı parçacıklarına (mikronlara) kadar ayırıyoruz:
 
-### 🗜️ Sac ve Plastik Şekillendirme
-*   **[Lazer Kesim ve Abkant Pres](1-makine-parkuru-ve-üretim/Lazer_Kesim_ve_Abkant_Pres_Sac_Isleme.md):** Sac levhaları milimetrik kesip, bükerek üç boyutlu şasiler oluşturan ikili.
-*   **[Plastik Enjeksiyon](1-makine-parkuru-ve-üretim/Plastik_Enjeksiyon_ve_Seri_Uretim_Mekanigi.md):** Eritilmiş plastiği yüksek basınçla çelik kalıplara basan seri üretim canavarları.
+### ⚙️ 1. Makine Parkuru ve Üretim Faktörleri
+Sanayide kaç tane tezgah vardır? Hangi makine hangi metali nasıl işler?
+*   🗺️ **[Dev Tezgah Kataloğu ve Sınıflandırma](1-makine-parkuru-ve-üretim/Tezgah_Katalogu_ve_Siniflandirma.md)** - Sanayinin tüm mekanik "kasları" tek listede.
+*   📊 **[CNC Dik İşleme ve Torna 101](1-makine-parkuru-ve-üretim/CNC_Dik_İsleme_Merkezi_101.md)** - Bilgisayarlı hassas üretimin beyni.
+*   🌀 **[Tel Erozyon ve EDM](1-makine-parkuru-ve-üretim/Tel_Erozyon_ve_Mikronluk_Kalıp_Uretimi.md)** - Elektrikle metal yakan cerrahi hassasiyet.
+*   ✨ **[Taşlama ve Yüzey Bitirme](1-makine-parkuru-ve-üretim/Taslama_Tezgahlari_ve_Yuzey_Bitirme_Teknolojileri.md)** - Mikronların ve ayna yüzeyin dünyası.
+*   🏗️ **[Lazer & Abkant Sac İşleme](1-makine-parkuru-ve-üretim/Lazer_Kesim_ve_Abkant_Pres_Sac_Isleme.md)** - Metal origami ve kalıpsız şekillendirme.
+*   🗳️ **[Plastik Enjeksiyon Mekaniği](1-makine-parkuru-ve-üretim/Plastik_Enjeksiyon_ve_Seri_Uretim_Mekanigi.md)** - Seri üretimin plastik kalbi.
 
----
+### 🔩 2. Mekanik, Motor ve Güç Aktarımı
+Hareket nerede başlar? Tork tekerleğe nasıl ulaşır?
+*   🔥 **[İçten Yanmalı Motorlar](2-mekanik-ve-motor/Icten_Yanmali_Motor_Temelleri.md)** - Yanma odasının termodinamik hikayesi.
+*   ⏱️ **[Triger ve Sente Ayarı](2-mekanik-ve-motor/Triger_ve_Zamanlama_Sente_Atlamasi_101.md)** - Kusursuz mekanik senkronizasyon.
+*   ⚙️ **[Şanzıman ve Diferansiyel](2-mekanik-ve-motor/Sanziman_Sistemleri_ve_Diferansiyel_Mekanigi.md)** - Torkun yönünü ve gücünü değiştiren dişliler.
+*   🌪️ **[Turboşarj Sistemleri](2-mekanik-ve-motor/Turbo_ve_Asiri_Besleme_Sistemleri.md)** - Atık gazdan gelen devasa güç.
 
-## 👨‍🔧 Sanayinin Zanaatkarları: Usta Ekosistemi
+### ⚡ 3. Otomasyon, Elektrik ve Dijital Sinyaller
+Fabrika bantlarını kim yönetir? Makineler birbirini nasıl anlar?
+*   🧠 **[PLC ve Kumanda Panoları](3-otomasyon-ve-elektrik/PLC_ve_Kumanda_Panosu_101.md)** - Endüstrinin mantıksal beyni.
+*   📡 **[Sensör Füzyonu ve Sinyaller](3-otomasyon-ve-elektrik/Endustriyel_Sensor_Fuzyonu_ve_Sinyal_Isleme.md)** - Gürültü içinden veri toplama sanatı.
+*   🕸️ **[Haberleşme Protokolleri](3-otomasyon-ve-elektrik/Endustriyel_Haberlesme_Protokolleri_ve_Veri_Yolları.md)** - Cihazlar arası kesintisiz dijital lisan.
 
-Makinelerin ruhu olan ustaların dünyasına derin dalış:
-*   **[Sanayi Hiyerarşisi ve Usta-Çırak Kültürü](5-sanayi-kulturu-ve-jargon/Sanayi_Hiyerarsisi_ve_Usta_Cirak_Kulturu.md):** Sanayinin görünmez anayasası ve gelişim yolu.
+### 🧪 4. Malzeme Bilimi ve Metalurji
+Metalin karakterini ne belirler? İki çelik nasıl birleşir?
+*   👨‍🏭 **[Kaynak Teknolojileri](4-malzeme-ve-metalurji/Kaynak_Teknolojileri_ve_Isil_Islem.md)** - Moleküler düzeyde metal birleştirme.
+*   🌡️ **[Isıl İşlem ve Sertleştirme](4-malzeme-ve-metalurji/Isil_Islem_Teknikleri_ve_Metal_Sertlestirme.md)** - Ateş ve suyun çeliği terbiye etmesi.
+*   🔥 **[Döküm ve Modelcilik](4-malzeme-ve-metalurji/Dokum_Teknolojileri_ve_Modelcilik_Hatalari.md)** - Erimiş ateşi forma dökme süreci.
 
----
+### 👨‍🔧 5. Sanayi Kültürü, İnsan ve Jargon
+Usta kimdir? Hiyerarşi nasıl işler? "Yağlı ellerin" görünmez yasaları.
+*   🎖️ **[Usta Branşları Matrisi](5-sanayi-kulturu-ve-jargon/Usta_Turleri_ve_Gorev_Tanimlari.md)** - Sanayide kaç çeşit usta vardır? Kim, neyi bilir?
+*   🤝 **[Usta-Çırak Kültürü](5-sanayi-kulturu-ve-jargon/Sanayi_Hiyerarsisi_ve_Usta_Cirak_Kulturu.md)** - Bilginin nesilden nesile genetik aktarımı.
+*   📖 **[A'dan Z'ye Sanayi Sözlüğü](5-sanayi-kulturu-ve-jargon/Sanayi_Terimleri_Sozlugu.md)** - Jargonun teknik karşılıkları.
 
-## 📂 Modüler Kütüphane Yapısı
+### 📏 6. Ölçme ve Kalite Kontrol (YENİ)
+Hassasiyet nerede biter? Doğru ölçmek neden daha zordur?
+*   📐 **[Ölçüm Aletleri ve Tolerans Fiziği](6-olcme-ve-kalite-kontrol/Olcme_Aletleri_ve_Tolerans_Fizigi_101.md)** - Kumpas, mikrometre ve CMM dünyası.
 
-*   📁 [**/1-makine-parkuru-ve-üretim**](1-makine-parkuru-ve-üretim) *(CNC, Lazer, Torna, Enjeksiyon süreçleri)*
-*   📁 [**/2-mekanik-ve-motor**](2-mekanik-ve-motor) *( [ICE Temelleri](2-mekanik-ve-motor/Icten_Yanmali_Motor_Temelleri.md), [Triger/Sente](2-mekanik-ve-motor/Triger_ve_Zamanlama_Sente_Atlamasi_101.md), [Şanzıman](2-mekanik-ve-motor/Sanziman_Sistemleri_ve_Diferansiyel_Mekanigi.md), [Turbo](2-mekanik-ve-motor/Turbo_ve_Asiri_Besleme_Sistemleri.md) )*
-*   📁 [**/3-otomasyon-ve-elektronik**](3-otomasyon-ve-elektronik) *( [PLC 101](3-otomasyon-ve-elektrik/PLC_ve_Kumanda_Panosu_101.md), [Sensör Füzyonu](3-otomasyon-ve-elektrik/Endustriyel_Sensor_Fuzyonu_ve_Sinyal_Isleme.md), [Haberleşme](3-otomasyon-ve-elektrik/Endustriyel_Haberlesme_Protokolleri_ve_Veri_Yolları.md) )*
-*   📁 [**/4-malzeme-ve-metalurji**](4-malzeme-ve-metalurji) *( [Kaynak](4-malzeme-ve-metalurji/Kaynak_Teknolojileri_ve_Isil_Islem.md), [Isıl İşlem](4-malzeme-ve-metalurji/Isil_Islem_Teknikleri_ve_Metal_Sertlestirme.md), [Döküm](4-malzeme-ve-metalurji/Dokum_Teknolojileri_ve_Modelcilik_Hatalari.md) )*
-*   📁 [**/5-sanayi-kulturu-ve-jargon**](5-sanayi-kulturu-ve-jargon) *( [A'dan Z'ye Sözlük](5-sanayi-kulturu-ve-jargon/Sanayi_Terimleri_Sozlugu.md), Usta-Çırak İlişkisi, İş Etiği )*
-
----
-
-## 📖 Sanayi Sözlüğünden Seçmeler
-
-| Teorik Terim | Sanayi Jargonu | Ne Anlama Gelir? |
-| :--- | :--- | :--- |
-| Piston Sıkışması | **Yatak Sarmak** | Yağsızlık/hararet sonucu parçaların birbirine kaynaması. |
-| Tolerans Boşluğu | **Tatlı Sıkı** | Parçaların hassas ve dirençli geçme toleransı. |
-| Erken Ateşleme | **Avans Vurması** | Yakıtın bujiden önce kontrolsüz patlaması (Vuruntu). |
-| Eksantrik Mili | **Kam Mili** | Subapların zamanlamasını yöneten ana mil. |
-
----
-
-## 🤝 Katkıda Bulunma (Contributing)
-
-Bu rehber statik değil, yaşayan bir organizmadır. PR'larınızı bekliyoruz!
-1. Repoyu fork'layın.
-2. Dalınızı oluşturun (`feature/yeni-sanayi-bilgisi`).
-3. Değişikliklerinizi commit edin.
-4. Pull Request (PR) oluşturun.
-
-*Not: Güvenlik her şeyden önce gelir. İçeriklerinizin Temel İş Güvenliği standartlarına uygun olmasına dikkat edin.*
+### 🛠️ 7. Bakım, Onarım ve Sarf Malzeme (YENİ)
+Makineler nasıl hayatta kalır? Rulmanlar ve yağlar neden kritiktir?
+*   💧 **[Bakım Teknolojileri](7-bakim-ve-onarim/Rulmanlar_Kayislar_ve_Yaglama_Teknolojileri.md)** - Rulmanlar, kayışlar ve yağlama stratejileri.
 
 ---
-**Geliştirici:** Açık kaynak topluluğu ve sanayiye gönül verenler.  
+
+## 🤝 Bilgi Bombardımanı Devam Ediyor
+
+Bu repo bitmiş bir döküman değil, sürekli genişleyen bir **"Sanayi Beyni"**dir. Eğer elinizde bir püf noktası, bir teknik formül veya atölye tecrübesi varsa, PR (Pull Request) ile bu ansiklopediyi beraber büyütelim.
+
+1. Fork'layın.
+2. Dalınızı açın (`feature/yeni-bilgi-bombasi`).
+3. "Yağ ve Silikon" dengesiyle içeriği ekleyin.
+4. Dünyaya yayın!
+
+---
+**Editör:** Açık kaynak topluluğu ve meta-mühendisler.
 **Lisans:** MIT
+**Misyon:** Sanayiyi herkes için bilimsel ve pratik bir açık kitap haline getirmek.
