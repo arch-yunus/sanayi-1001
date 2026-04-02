@@ -24,6 +24,67 @@ Dokümanları okurken, her makalenin içerisinde yer alan İSG (İş Sağlığı
 
 ---
 
+## 🏭 Büyük Resim: Fabrika Üretim Döngüsü (Macro Overview)
+
+Sanayi ve üretim teknolojilerine genel bir hakimiyet kurmak için parçaları değil, **bütünü** görmek gerekir. Bir ham metal kütüğünün, akıllı bir şanzıman parçasına veya havacılık dişlisine dönüşme serüveninde, Sanayi 1001 bünyesindeki tüm mühendislik ve altyapı disiplinleri aşağıdaki gibi birbirine entegre şekilde çalışır:
+
+```mermaid
+graph TD
+    %% Renk Teması
+    classDef hammadde fill:#2C3E50,stroke:#34495E,stroke-width:2px,color:#fff;
+    classDef isleme fill:#E67E22,stroke:#D35400,stroke-width:2px,color:#fff;
+    classDef otomasyon fill:#2980B9,stroke:#2471A3,stroke-width:2px,color:#fff;
+    classDef kalite fill:#27AE60,stroke:#1E8449,stroke-width:2px,color:#fff;
+    classDef yalın fill:#8E44AD,stroke:#732D91,stroke-width:2px,color:#fff;
+
+    %% Aşama 1: Ar-Ge ve Hammadde
+    subgraph Domain_4 [4. Malzeme Bilimi ve Tasarım]
+        A1[CAD/CAM Mühendislik Tasarımı]:::hammadde --> A2[DIN/ISO Alaşım Seçimi]:::hammadde
+        A2 --> A3[Döküm veya Ham Kütük Çeliği]:::hammadde
+    end
+
+    %% Aşama 2: Talaşlı İmalat
+    subgraph Domain_1 [1. İmalat Teknolojileri ve Makine Ekosistemi]
+        A3 --> B1(CNC Torna ve Dik İşleme VMC):::isleme
+        B1 --> B2(Lazer Kesim & Sac Şekillendirme):::isleme
+        B1 --> B3(Mikronluk Erozyon & Tel EDM):::isleme
+    end
+
+    %% Aşama 3: Otomasyon ve Altyapı Desteği
+    subgraph Domain_3_7 [3. Otomasyon & 7. Bakım Altyapısı]
+        O1((PLC / SCADA Mantık Yönetimi)):::otomasyon -. Sinyal Haberleşmesi .-> B1
+        O2((6-Eksen Endüstriyel Robotlar)):::otomasyon -. Parça Yükleme .-> B1
+        O3((Soğutma Kuleleri & Chiller)):::otomasyon -. Termodinamik Tahliye .-> B1
+        O4((Trafo ve Enerji Kalitesi)):::otomasyon -. Yüksek Gerilim Beslemesi .-> O1
+    end
+
+    %% Aşama 4: Metalürjik ve Yüzey İşlemler
+    subgraph Domain_2_4 [2. Mekanik & Yüzey İşlemleri]
+        B1 --> C1{Dinamik Isıl İşlem ve Sertleştirme}:::isleme
+        C1 --> C2[Silindirik & Satıh Taşlama]:::isleme
+        B3 --> C1
+        B2 --> C3(Eloksal, Galvaniz & Sert Krom Kaplama):::isleme
+        C2 --> C3
+    end
+
+    %% Aşama 5: Kapanış ve Sevk
+    subgraph Domain_6_8 [6. Metroloji & 8. Yalın Yönetim]
+        C3 --> D1[CMM Koordinat Ölçüm Makinesi]:::kalite
+        D1 --> D2{Tolerans Kontrolü - H7/g6}:::kalite
+        D2 -- Geçti --> D3(Yalın Üretim Montaj Hattı & 5S):::yalın
+        D3 --> D4(((Nihai Endüstriyel Çıktı))):::yalın
+        D2 -- Limit Dışı (Muda) --> A3
+    end
+
+    %% Global Kavramlar Bağlantısı
+    D3 -. Kurumsal Mentörlük .-> S1[5. Sanayi Kültürü & Atölye Hiyerarşisi]
+    O1 -. LOTO Prosedürü .-> S2[9. İSG ve Risk Önleme Felsefesi]
+```
+
+Bu diyagram, Sanayi 1001 içindeki tüm disiplinlerin izole adacıklar olmadığını, tam aksine fabrikanın devasa "sinir sisteminin" organları olduğunu gösterir. Makineler demiri işler, otomasyon ağı bu makineleri yönetir, triboloji onların hayatta kalmasını sağlar ve metroloji hepsinin doğrulamasını yapar.
+
+---
+
 ## 🏛️ Endüstriyel Disiplinler ve Kategoriler
 
 Sanayi 1001 projesinde yer alan dokümanlar, üretim döngüsünde kavram karmaşasını önlemek adına spesifik disiplinlere ayrılarak 9 ana kategori altında toplanmıştır. Her bir kategori, kendi alanındaki alt kırılımlara ve özel rehberlere yönlendirme yapmaktadır.
