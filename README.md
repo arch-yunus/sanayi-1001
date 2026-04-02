@@ -19,22 +19,26 @@ Her dökümanımız, sadece tozlu raflardaki akademik makalelerden veya kulaktan
 Talaşlı imalattan, en karmaşık eklemeli üretim yöntemlerine kadar modern üretim hatlarının mekanik kalbi burada atar. Sadece makineyi kullanmayı değil, makineyle bütünleşmeyi hedefliyoruz.
 *   **Temel Rehber:** [CNC Dik İşleme Merkezleri 101](1-makine-parkuru-ve-üretim/CNC_Dik_İsleme_Merkezi_101.md) - Millerin devasa torkları ve mikronluk hassasiyetin senkronizasyonu.
 *   **Manuel Ustalık:** [Torna Tezgahı ve Universal İşleme 101](1-makine-parkuru-ve-üretim/Torna_Tezgahi_ve_Universal_Isleme_101.md) - İmalatın atası ve usta hissiyatı.
+*   **Geometrik Hassasiyet:** [Freze Tezgahı ve Divizör Mekaniği](1-makine-parkuru-ve-üretim/Freze_Tezgahi_ve_Divizor_Mekanigi.md) - Kanal açma ve açısal bölme sanatı.
 
 ### 2️⃣ Mekanik ve Motor
 İçten yanmalı motorların (ICE) termodinamik verimliliğinden, karmaşık dişli kutularının (şanzıman) kinematik yapısına kadar hareketin en saf hali.
 *   **Temel Kuram:** [İçten Yanmalı Motor Temelleri](2-mekanik-ve-motor/Icten_Yanmali_Motor_Temelleri.md) - Yanma odasının cehennemi ve mekanik güce dönüşüm hikayesi.
 *   **Meta-Mühendislik:** [Triger Sistemi ve Subap Senkronizasyonu](2-mekanik-ve-motor/Triger_ve_Zamanlama_Sente_Atlamasi_101.md) - Milisaniyelik hata payı olmayan bir mekanik orkestra: Sente.
 *   **Güç Aktarımı:** [Şanzıman Sistemleri ve Diferansiyel Mekaniği](2-mekanik-ve-motor/Sanziman_Sistemleri_ve_Diferansiyel_Mekanigi.md) - Torkun tekerleklere olan yolculuğu.
+*   **Aşırı Besleme:** [Turboşarj ve Aşırı Besleme Sistemleri](2-mekanik-ve-motor/Turbo_ve_Asiri_Besleme_Sistemleri.md) - Motorun ikinci akciğeri ve enerji geri kazanımı.
 
 ### 3️⃣ Otomasyon ve Elektrik
 Sensörlerden PLC'lere, robotik kollardan ECU'lara kadar fabrikaları yöneten dijital sinir sistemi. Bir rölenin tık sesinden bir yazılımın mantıksal akışına uzanan dikey entegrasyon.
 *   **Sistem Analizi:** [PLC ve Kumanda Panosu 101](3-otomasyon-ve-elektrik/PLC_ve_Kumanda_Panosu_101.md) - Röle mantığından modern otomasyonun hiyerarşisine geçiş.
 *   **Veri ve Sinyal:** [Sensör Füzyonu ve Sinyal İşleme](3-otomasyon-ve-elektrik/Endustriyel_Sensor_Fuzyonu_ve_Sinyal_Isleme.md) - Fabrikanın sinir uçları ve gürültü yönetimi.
+*   **Dijital Lisan:** [Endüstriyel Haberleşme Protokolleri](3-otomasyon-ve-elektrik/Endustriyel_Haberlesme_Protokolleri_ve_Veri_Yolları.md) - Cihazlar arası kesintisiz bilgi akışı.
 
 ### 4️⃣ Malzeme ve Metalurji
 Metalin atomik yapısındaki dislokasyonlardan, kaynak arkının 6000 derecelik ısısına kadar maddenin kimyasal ve fiziksel dönüşümü.
 *   **Uygulamalı Metalurji:** [Kaynak Teknolojileri ve Isıl İşlem](4-malzeme-ve-metalurji/Kaynak_Teknolojileri_ve_Isil_Islem.md) - Isıdan etkilenen bölgelerin (HAZ) ve malzemenin moleküler hafızasının analizi.
 *   **Karakter Gelişimi:** [Isıl İşlem Teknikleri ve Metal Sertleştirme](4-malzeme-ve-metalurji/Isil_Islem_Teknikleri_ve_Metal_Sertlestirme.md) - Ateş ve suyun çeliği terbiye etme sanatı.
+*   **Form Verme:** [Döküm Teknolojileri ve Modelcilik Hataları](4-malzeme-ve-metalurji/Dokum_Teknolojileri_ve_Modelcilik_Hatalari.md) - Erimiş metalin geometriye dönüşüm hikayesi.
 
 ### 5️⃣ Sanayi Sözlüğü
 Dünyanın en zengin dillerinden biri olan "Sanayi Jargonu"nun akademik ve teknik terminolojiye kusursuz tercümesi. Burada hiçbir terim havada kalmaz.

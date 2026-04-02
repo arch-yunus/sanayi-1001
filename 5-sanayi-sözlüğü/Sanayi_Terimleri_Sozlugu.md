@@ -31,6 +31,16 @@ Bu sözlük, Türkiye'deki sanayi siteleri ve atölyelerde nesillerden nesillere
 | **Kuru Kontak** | *Volt-Free Contact* | Kendi başına voltaj taşımayan, sadece devreyi açıp kapatan anahtar. |
 | **Ekranlı Kablo** | *Shielded Cable* | Dış parazitleri toprağa ileten örgü kılıflı kablo. |
 | **Salgı Yapmak** | *Runout* | Bir milin veya parçanın dönüş ekseninden kaçık olması, yalpalaması. |
+| **Fener Mili** | *Spindle* | Freze bıçağının veya iş parçasının bağlandığı ana devir mili. |
+| **Helis Açmak** | *Helical Milling* | Divizör ile spiral/vida şeklinde kanallar açma işlemi. |
+| **Turbo Lag** | *Turbocharger Delay* | Gaza basıldığında turbonun dolması için gereken mekanik bekleme süresi. |
+| **Wastegate** | *Bypass Valve* | Fazla egzoz basıncını dışarı tahliye eden turbo emniyet valfi. |
+| **Dump Valve** | *Blow-off Valve* | Emme manifoldundaki fazla havayı dışarı atan tahliye valfi. |
+| **Haberleşme Koptu** | *Comm. Error / Timeout* | Cıhazlar arasındaki dijital veri akışının kesilmesi. |
+| **Yolluk** | *Gating System* | Dökümde sıvı metalin kalıba girdiği kanal yolu. |
+| **Maça** | *Core* | Parçanın içindeki boşlukları (delikleri) oluşturan kum blok. |
+| **Lunker** | *Shrinkage Cavity* | Döküm katılaşırken metalin çekmesiyle oluşan iç boşluk. |
+| **Baud Rate** | *Symbol Rate* | Veri iletim hızı (bit/saniye). |
 
 ## 🧪 Jargonun Etyolojisi
 Sanayi terimleri genellikle **Almanca**, **Fransızca** veya **İtalyanca** kökenli teknik kelimelerin zamanla Türkçeleşmesiyle (Örn: *Segment* -> *Sekman*) veya yapılan işin sesine/etkisine göre türetilmiş (Örn: *Fırt*) ifadelerdir.
