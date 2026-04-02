@@ -39,6 +39,10 @@ Mantıksal kontrol döngüleri, haberleşme ağları ve sensör entegrasyonu.
 *   📡 **[Sensör Füzyonu ve Sinyal Analizi](3-otomasyon-ve-elektrik/Endustriyel_Sensor_Fuzyonu_ve_Sinyal_Isleme.md):** Dijital gürültü filtreleme ve otomasyon geribesleme (Feedback) sistemleri.
 *   🕸️ **[Endüstriyel Veri Yolu Sistemleri (Fieldbus)](3-otomasyon-ve-elektrik/Endustriyel_Haberlesme_Protokolleri_ve_Veri_Yolları.md):** Kritik üretim ağları (Modbus, Profinet).
 *   🤖 **[Endüstriyel Robotik ve Mekatronik](3-otomasyon-ve-elektrik/Endustriyel_Robotik_ve_Mekatronik_Sistemler.md):** Robot kinematik teorisi, RAPID/KRL programlama ve ISO 10218 güvenlik standartları.
+*   ⚡ **[Elektrik Motorları ve Frekans Sürücüleri](3-otomasyon-ve-elektrik/Elektrik_Motorlari_ve_Frekans_Suruculeri.md):** AC/DC, Servo, Step motorlar ve VFD enerji optimizasyonu.
+*   🔌 **[Enerji Kalitesi ve Elektrik Dağıtımı](3-otomasyon-ve-elektrik/Enerji_Kalitesi_ve_Fabrika_Elektrik_Dagitimi.md):** Trafo merkezleri, kompanzasyon (Cos φ) panoları ve harmonik filtrasyon.
+*   💧 **[Hidrolik ve Pnömatik Sistemler](3-otomasyon-ve-elektrik/Hidrolik_ve_Pnomatik_Sistemler.md):** Pascal yasası, güç aktarımı, valf konfigürasyonları ve sızdırmazlık.
+*   🚿 **[Endüstriyel Boru ve Tesisat Sistemleri](3-otomasyon-ve-elektrik/Endustriyel_Boru_Tesisat_ve_Akiskan_Sistemleri.md):** P&ID sembolojisi, akışkan transferi ve vana tipleri.
 
 ### 🧪 4. Metalürji Teorisi ve Malzeme Bilimi
 Endüstriyel metallerin atomik dönüşümleri, korozyon fiziği ve yapısal sömünleme.
@@ -46,6 +50,7 @@ Endüstriyel metallerin atomik dönüşümleri, korozyon fiziği ve yapısal sö
 *   🌡️ **[Faz Dönüşümleri (Dinamik Isıl İşlem)](4-malzeme-ve-metalurji/Isil_Islem_Teknikleri_ve_Metal_Sertlestirme.md):** Karbon salınımı, ostenit-martenzit kristal dönüşümleri.
 *   🔥 **[Döküm Teknolojileri ve Katılaşma](4-malzeme-ve-metalurji/Dokum_Teknolojileri_ve_Modelcilik_Hatalari.md):** Termal şok, boşluk (Shrinkage) hataları ve çekirdeklenme.
 *   🧬 **[Alaşım Spesifikasyonları ve Seçim Algoritması](4-malzeme-ve-metalurji/Celik_Kodlari_ve_Malzeme_Secim_Rehberi.md):** DIN/ISO alaşım kodlaması (4140, 7131 vb.) ve mekanik mukavemet testleri.
+*   🧪 **[Endüstriyel Yüzey İşlem ve Kaplama](4-malzeme-ve-metalurji/Endustriyel_Yuzey_Islem_ve_Kaplama_Teknolojileri.md):** Galvanizasyon, Sert Krom, Eloksal ve korozyon koruma zırhları.
 
 ### 👨‍🔧 5. Operasyonel Kültür ve Davranışsal Disiplin
 Sanayinin insan faktörü bazlı iletişim ağları ve geleneksek transfer modeli.
@@ -62,6 +67,7 @@ Mekansal ölçüm teknikleri ve global kalite güvenlik anayasası.
 ### 🛠️ 7. Operasyonel Sürdürülebilirlik ve Bakım Felsefesi
 Koruyucu, önleyici ve kestirimci bakım konseptlerinin endüstriyel dağılımı.
 *   💧 **[Triboloji, Yağlama Çözümleri ve Rulman Fiziği](7-bakim-ve-onarim/Rulmanlar_Kayislar_ve_Yaglama_Teknolojileri.md):** Viskozite eğrileri, kinetik aşınma önleme ve hareket sönümleme teorileri.
+*   ❄️ **[Endüstriyel Soğutma ve Isı Dağıtımı](7-bakim-ve-onarim/Endustriyel_Sogutma_ve_Isi_Transfer_Sistemleri.md):** Chiller üniteleri, Soğutma kuleleri, Eşanjörler ve termodinamik transfer.
 
 ### 📈 8. Atölye Yönetimi ve Verimlilik (Yalın Disiplin)
 Sıfır atık, minimum israf (Muda) ve üretim kapasitesi optimizasyonu.
