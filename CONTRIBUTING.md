@@ -1,8 +1,8 @@
 # Sanayi 1001'e Katkıda Bulunma Rehberi
 
-Sanayi 1001 projesine ilgi gösterdiğiniz ve bu meta-mühendislik kütüphanesini büyütmek istediğiniz için teşekkür ederiz. Bu depo (repository), hem atölye zeminindeki pratik "yağlı tecrübeyi" hem de modern makine mühendisliği teorisini tek potada eritir. 
+Sanayi 1001 projesine ilgi gösterdiğiniz ve bu bilgi bankasını büyütmek istediğiniz için teşekkür ederiz. Bu repo, atölyelerdeki pratik tecrübeler ile mühendislik teorilerini tek bir noktada toplamayı amaçlar.
 
-Amacımız, endüstriyel dünyadaki hataları (Defect) minimize eden, iş güvenliğini (İSG) maksimize eden ve nesilden nesle aktarılan usta-çırak kültürünü dijital ortama taşıyan sıfır toleranslı bir **Whitepaper (Beyaz Kitap)** oluşturmaktır.
+Amacımız, endüstriyel dünyadaki bilgi kirliliğini önlemek, iş güvenliği (İSG) standartlarını vurgulamak ve faydalı teknik bilgileri dijital ortama taşımaktır.
 
 ## 🛠️ Nasıl Katkı Sağlayabilirsiniz?
 
@@ -10,16 +10,16 @@ Yeni bir teknik doküman ekleyebilir, mevcut dokümanlardaki hataları düzelteb
 
 ### Pull Request (PR) Sürecimiz
 1. **Repository'i Fork'layın:** Depoyu kendi GitHub hesabınıza kopyalayın.
-2. **Yeni Bir Branch Açın:** Master/Main dalına doğrudan push yapmaktan kaçının. Özellik dalınızı tanımlayıcı bir isimle açın (örn: `feat/yeni-kaynak-teknolojisi` veya `fix/rulman-formulu-hatasi`).
-3. **Dokümantasyon Standartlarına Uyun:** Aşağıda belirtilen "Yağ ve Silikon" konseptine sadık kalın.
-4. **Commit Mesajları:** Açıklayıcı ve Conventional Commits formatına uygun mesajlar yazın (Örn: `feat: add TIG welding process details`).
-5. **PR Oluşturun:** Değişikliklerinizi GitHub üzerinden Pull Request olarak gönderin. Değerlendirme süreci "Baş Mühendis / Maintainer" statüsündeki operatörler tarafından yapılacaktır.
+2. **Yeni Bir Branch Açın:** Master/Main dalına doğrudan push yapmaktan kaçının. Özelliği tanımlayan bir isimle branch açın (örn: `feat/yeni-kaynak-teknolojisi`).
+3. **Dokümantasyon Standartlarına Uyun:** İçeriklerinizin teknik olarak doğru ve tarafsız olmasına özen gösterin.
+4. **Commit Mesajları:** Anlaşılır mesajlar yazın (Örn: `feat: kaynak işlemi detayları eklendi`).
+5. **PR Oluşturun:** Değişikliklerinizi kontrol edilmek üzere Pull Request olarak gönderin.
 
 ---
 
-## ⚖️ Altın Kurallar: "Yağ ve Silikon" Konsepti
+## ⚖️ Altın Kurallar
 
-Katkıda bulunurken içeriklerin aşağıdaki "Yağ ve Silikon" (Fizik, Bilim ve Sanayi Adabı) oranlarına ve standartlarına uyması zorunludur:
+Katkıda bulunurken içeriklerin aşağıdaki standartlara uyması beklenir:
 
 ### 1. Güvenlik Her Şeyden Ötedir (İSG Zorunluluğu)
 - Eklediğiniz her makine, süreç veya operasyon için **kesinlikle** bir İş Sağlığı ve Güvenliği (İSG) veya Risk uyarısı eklemelisiniz.

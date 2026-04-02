@@ -1,15 +1,15 @@
 # Sanayi 1001 Davranış Kuralları (Code of Conduct)
 
-## Sanayi Adabı ve Mühendislik Saygısı
+## Sanayi Adabı ve Saygı
 
-Sanayi 1001 projesi, yalnızca kod ve doküman üreten teknik bir topluluk değil; "Usta-Çırak" geleneğinden beslenen, ancak köhneleşmiş tahakküm kültürünü reddeden açık fikirli bir **Meta-Mühendislik** dergahıdır. Bu depoya (repository) katkıda bulunan herkes, bilgiyi aktarırken aşağıdaki sanayi adabı ve profesyonel mühendislik etiğine uymayı kabul etmiş sayılır.
+Sanayi 1001 projesi, mesleki bilgilerin herkes tarafından erişilebilir olmasını savunan açık kaynaklı bir topluluktur. Bu depoya katkıda bulunan herkesin, bilgiyi aktarırken veya tartışırken aşağıdaki saygı kurallarına ve temel ahlak ilkelerine uyması beklenir.
 
 ### ✅ Bizim Savunduğumuz Davranışlar (Neler Bekliyoruz?)
 
-*   **Ustaya Saygı, Çırağa Mentorluk:** Teknik bilgisi veya rütbesi ne olursa olsun, bir başkasının eksiğini düzeltirken tahrip edici değil, öğretici ("Mentor") bir dil kullanmak.
-*   **Kanıt ve Standarda Dayalı Tartışmalar:** Bir tezi çürütürken veya yeni bir yöntem(PR/Issue) savunurken; kişisel "Ego"larla değil, fizik kuralları, ISO normları veya sahadan alınmış net kalibrasyon verileriyle konuşmak.
-*   **Kapsayıcı ve Açık Fikirli Olmak:** CNC operatörünün sahadaki "Yağlı" tecrübesi ile AR-GE mühendisinin vizyonunu eş değerde ve kıymetli görmek. Kibir ve akademik üstenciliğe yer yoktur.
-*   **Hataları Affedici Bir Gözle İncelemek:** Kodlamada (Markdown) veya pratikte yapılan bir hatayı işaret ederken her zaman yapıcı (Constructive) bir tavır sergilemek.
+*   **Karşılıklı Saygı:** Bilgi seviyesi veya tecrübesi ne olursa olsun, bir başkasının eksiğini düzeltirken tahrip edici değil, öğretici ve kibar bir dil kullanmak.
+*   **Kanıt ve Standarda Dayalı Tartışmalar:** Bir yöntemi tartışırken veya savunurken kişisel tartışmalardan kaçınmak; fizik kuralları, ISO normları veya pratik verilere tutunmak.
+*   **Kapsayıcı ve Açık Fikirli Olmak:** Sahadaki ustanın tecrübesi ile ofisteki mühendisin vizyonuna eşit saygı göstermek.
+*   **Hataları Affedici Gözle İncelemek:** Yazım veya bilgi hatalarını düzeltirken yapıcı bir tavır sergilemek.
 
 ### ❌ Kesinlikle Kabul Edilemez Davranışlar (Kırmızı Çizgiler)
 
