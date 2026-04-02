@@ -1,5 +1,6 @@
 # 🏗️ Sanayi 1001: Endüstriyel Bilgi Bankası ve Meta-Mühendislik Platformu
 
+![Sanayi 1001 Hero Banner](assets/hero_banner.png)
 ![Status](https://img.shields.io/badge/Versiyon-1.4.0_PRO_PLUS-blue.svg) ![License](https://img.shields.io/badge/Lisans-MIT-green.svg) ![Scope](https://img.shields.io/badge/Kapsam-Global_End%C3%BCstriyel_Standartlar-orange.svg)
 
 ## 📑 Stratejik Vizyon ve Operasyonel Misyon
