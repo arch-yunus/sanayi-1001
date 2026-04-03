@@ -1,3 +1,11 @@
+---
+title: "CNC Dik İşleme Merkezi 101 (VMC)"
+domain: 1
+tags: [cnc, vmc, talaşlı-imalat, g-code]
+difficulty: Intermediate
+last_updated: 2026-04-03
+---
+
 # CNC Dik İşleme Merkezi 101 (Vertical Machining Center - VMC)
 
 ## 📋 Özet (Executive Summary)
